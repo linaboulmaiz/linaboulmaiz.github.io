@@ -1,0 +1,10 @@
+PORTFOLIO LINA BOULMAIZ
+
+1. Ouvrez index.html dans un navigateur pour voir le site.
+2. Pour une publication en ligne, déposez le contenu entier du dossier sur un hébergement statique (GitHub Pages, Netlify, etc.).
+3. Pour les modifications, ouvrez index.html dans un éditeur de texte. Les traductions et textes se trouvent dans l'objet JavaScript « data ».
+4. Les photos d'hôpital ne doivent pas être publiées sans autorisation du service. Les captures d'écran de consoles doivent être vérifiées pour les données sensibles.
+5. Le formulaire de contact est remplacé par un lien de messagerie fonctionnel sans serveur.
+6. Le CV joint au site est une version publique sans adresse personnelle ni téléphone.
+7. Le mémoire est intégré tel que fourni. Vérifiez qu'il peut être diffusé publiquement avant publication.
+8. Certaines images servent d'illustrations d'ambiance à des projets ; elles ne constituent pas des résultats scientifiques de ces projets.
